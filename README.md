@@ -1,4 +1,8 @@
-[alt logo]([image_url](https://github.com/danieljou/OVRAT/blob/main/assets/Ovrat.PNG))
+
+
+<div align="center">
+  <img src="https://github.com/danieljou/OVRAT/blob/main/assets/Ovrat.PNG" width="600" height="300"/>
+</div>
 
 # OVRAT: Open Source Virtual Reality Anatomy Training
 
