@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/danieljou/OVRAT/blob/main/assets/Ovrat.PNG" />
+  <img src="https://github.com/danieljou/OVRAT/blob/main/assets/Ovrat.PNG" width="100"/>
 </div>
 
 # OVRAT: Open Source Virtual Reality Anatomy Training
