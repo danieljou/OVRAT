@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  <img src="https://github.com/danieljou/OVRAT/blob/main/assets/Ovrat.PNG" width="100"/>
+</div>
+
 # OVRAT: Open Source Virtual Reality Anatomy Training
 
 OVRAT is an open source virtual reality application designed to provide medical students and professionals with a comprehensive and immersive training experience in anatomy. The application uses cutting-edge virtual reality technology to create a realistic and engaging environment that allows users to explore and interact with 3D models of the human body.
